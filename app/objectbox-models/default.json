@@ -1,0 +1,62 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:970356685442692066",
+      "lastPropertyId": "7:4321230526209397898",
+      "name": "RecipeModel",
+      "properties": [
+        {
+          "id": "1:4379817955939765766",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:4967478459762715219",
+          "name": "name",
+          "type": 9
+        },
+        {
+          "id": "3:6614006427598927100",
+          "name": "time",
+          "type": 5
+        },
+        {
+          "id": "4:7696124288007179163",
+          "name": "type",
+          "type": 5
+        },
+        {
+          "id": "5:4237021294565585575",
+          "name": "ingredients",
+          "type": 30
+        },
+        {
+          "id": "6:7614131278986266004",
+          "name": "instructions",
+          "type": 30
+        },
+        {
+          "id": "7:4321230526209397898",
+          "name": "imageUri",
+          "type": 9
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "1:970356685442692066",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [],
+  "retiredRelationUids": [],
+  "version": 1
+}
