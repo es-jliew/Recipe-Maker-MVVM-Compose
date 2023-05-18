@@ -3,3 +3,4 @@ A personal project to create a simple recipe maker Android application written i
 
 Libraries used:
 1. <a href="https://github.com/objectbox/objectbox-java"><strong>ObjectBox</strong></a> : To persist data in an NoSQL database.
+2. 1. <a href="https://github.com/coil-kt/coil"><strong>Coil</strong></a> : To load image data from local storage.
