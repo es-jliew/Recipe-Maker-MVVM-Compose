@@ -1,2 +1,2 @@
-# Recipe-Maker-MVVM-Compose
+# Recipe-Maker-MVVM-Compose (WIP)
 Initial commit
