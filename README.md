@@ -11,6 +11,3 @@ A personal project to create a simple recipe maker Android application written i
   <img src="screenshots/Recipe-Maker-MVVM-Compose-Img-2.png" width=25% height=25%>
   <img src="screenshots/Recipe-Maker-MVVM-Compose-Img-3.png" width=25% height=25%>
 </p>
-![Alt Text](screenshots/Recipe-Maker-MVVM-Compose-Img-1.png)
-![Alt Text](screenshots/Recipe-Maker-MVVM-Compose-Img-2.png)
-![Alt Text](screenshots/Recipe-Maker-MVVM-Compose-Img-3.png)
