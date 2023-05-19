@@ -7,3 +7,5 @@ A personal project to create a simple recipe maker Android application written i
 
 # Screenshots
 ![Alt Text](screenshots/Recipe-Maker-MVVM-Compose-Img-1.png)
+![Alt Text](screenshots/Recipe-Maker-MVVM-Compose-Img-2.png)
+![Alt Text](screenshots/Recipe-Maker-MVVM-Compose-Img-3.png)
