@@ -6,4 +6,4 @@ A personal project to create a simple recipe maker Android application written i
 2. <a href="https://github.com/coil-kt/coil"><strong>Coil</strong></a> : To load image data from local storage.
 
 # Screenshots
-![Alt Text](screenshots/Recipe-Maker-MVVM-Compose-Img-1.jpg)
+![Alt Text](screenshots/Recipe-Maker-MVVM-Compose-Img-1.png)
