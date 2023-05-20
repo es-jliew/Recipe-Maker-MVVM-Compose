@@ -17,11 +17,11 @@ A personal project to create a simple recipe maker Android application written i
 <br>
 <p>
   <img src="screenshots/Screenshot_20230519-100547.png" width=25% height=25%>
-  &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp;
   <img src="screenshots/Screenshot_20230519-100601.png" width=25% height=25%>
-  &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp;
   <img src="screenshots/Screenshot_20230519-100614.png" width=25% height=25%>
-  &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp;
   <img src="screenshots/Screenshot_20230519-100813.png" width=25% height=25%>
 </p>
 <br>
